@@ -1,6 +1,6 @@
 {
   "name": "httpinkie",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "HTTP as a Promise",
   "license": "MIT",
   "repository": "floatdrop/httpinkie",
@@ -19,7 +19,10 @@
     "index.js"
   ],
   "keywords": [
-    "http", "https", "promise", "pinkie"
+    "http",
+    "https",
+    "promise",
+    "pinkie"
   ],
   "dependencies": {
     "is-stream": "^1.0.1",
